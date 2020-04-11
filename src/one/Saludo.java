@@ -43,9 +43,9 @@ public class Saludo {
 		}
 		
 		// Objetos
-		// 1. Declaración 
+		// 1. Declaraciï¿½n 
 		Employee carlos;
-		// 2. Instanciación, crear el objeto, llamar al constructor
+		// 2. Instanciaciï¿½n, crear el objeto, llamar al constructor
 		carlos = new Employee();
 		carlos.setName("Carlos");
 		Employee rosa = new Employee();
@@ -79,9 +79,6 @@ public class Saludo {
 	public static void testearEmployee(ManagerEmployee managerEmployeec) {
 		
 	}
-		
-		
-
 }
 
 
