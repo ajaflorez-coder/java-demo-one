@@ -74,6 +74,8 @@ public class Saludo {
 		
 		DeportesEmployee deportesEmployee = new DeportesEmployee();
 		testearEmployee(deportesEmployee);
+		
+		System.out.println("Hello programmers");
 
 	}
 	public static void testearEmployee(ManagerEmployee managerEmployeec) {
