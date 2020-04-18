@@ -1,5 +1,12 @@
 package one;
 
 public class Hi {
-	int a;
+	private int a;
+	private String ajaflorez;
+	
+	
+	public int calcular(int numero) {
+		return numero; 
+	}
+	
 }
