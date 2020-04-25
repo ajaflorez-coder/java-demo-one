@@ -12,19 +12,19 @@ public class TeacherEmployee implements ManagerEmployee  {
 	}
 
 	@Override
-	public void metodo1() {
+	public void trabajar() {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public int metodo2(int entero) {
+	public int descanzar(int entero) {
 		// TODO Auto-generated method stub
 		return 0;
 	}
 
 	@Override
-	public String metodo3(String cadena) {
+	public String digitar(String cadena) {
 		// TODO Auto-generated method stub
 		return null;
 	}

@@ -17,13 +17,13 @@ public class SaludEmployee implements ManagerEmployee {
 	public void saludarEmployee() {
 		
 	}
-	public void metodo1() {
+	public void trabajar() {
 		
 	}
-	public int metodo2(int entero) {
+	public int descanzar(int entero) {
 		return entero;
 	}
-	public String metodo3(String cadena) {
+	public String digitar(String cadena) {
 		return cadena;
 	}
 	

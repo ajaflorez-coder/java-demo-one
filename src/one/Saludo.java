@@ -55,13 +55,13 @@ public class Saludo {
 		*/
 		
 		HHRREmployee hhrrEmployee = new HHRREmployee() ;
-		int retorno = hhrrEmployee.metodo2(5);
-		String cadena = hhrrEmployee.metodo3("Hola");
+		int retorno = hhrrEmployee.descanzar(5);
+		String cadena = hhrrEmployee.digitar("Hola");
 		testearEmployee(hhrrEmployee);
 		
 		TeacherEmployee teacherEmployee = new TeacherEmployee();
-		retorno = teacherEmployee.metodo2(5);
-		cadena = teacherEmployee.metodo3("Hola");
+		retorno = teacherEmployee.descanzar(5);
+		cadena = teacherEmployee.digitar("Hola");
 		testearEmployee(teacherEmployee);
 		
 		ManagerEmployee managerEmployee;
